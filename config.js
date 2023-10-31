@@ -59,7 +59,7 @@ global.fgpyp = 'https://youtube.com/@comedymelodych8468'
 global.fglog = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/2000px-Flag_of_Kenya.svg.png' 
 
 //imagen
-global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
+global.imagen1 = fs.readFileSync('./src/avatar_contact.jpg')
 
 //Dont Edit Danger Zone⚠️
 global.wait = '*⌛ _Please Wait..._*'
