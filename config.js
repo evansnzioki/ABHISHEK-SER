@@ -56,7 +56,7 @@ global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
 global.fgyt = 'https://youtube.com/@comedymelodych8468'
 global.fgpyp = 'https://youtube.com/@comedymelodych8468'
-global.fglog = 'https://github.com/evansnzioki/ABHISHEK-SER/blob/main/src/-1933108480.png.jpg' 
+global.fglog = 'src/-1933108480.png.jpg' 
 
 //imagen
 global.imagen1 = fs.readFileSync('./src/-1933108480.png.jpg')
