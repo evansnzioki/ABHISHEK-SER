@@ -56,10 +56,10 @@ global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
 global.fgyt = 'https://youtube.com/@comedymelodych8468'
 global.fgpyp = 'https://youtube.com/@comedymelodych8468'
-global.fglog = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/2000px-Flag_of_Kenya.svg.png' 
+global.fglog = '1933108480.png.jpg' 
 
 //imagen
-global.imagen1 = fs.readFileSync('./src/avatar_contact.jpg')
+global.imagen1 = fs.readFileSync('./src/-1933108480.png.jpg')
 
 //Dont Edit Danger Zone⚠️
 global.wait = '*⌛ _Please Wait..._*'
